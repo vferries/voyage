@@ -5,8 +5,7 @@ locale: fr_FR
 description: Mes petites péripéties autour du monde histoire de bien commencer l'année 2015.
 logo: site-logo.png
 search: true
-url:
-#http://vferries.github.io/voyage
+url: http://vferries.github.io/voyage
 
 
 # Jekyll configuration
