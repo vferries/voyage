@@ -13,15 +13,15 @@ Le contenu de cet article est en cours de rédaction.
 ### Vue d'ensemble
 
 <figure>
-	<img src="/images/matos_photo.jpg" alt="go pro">
+	<img src="{{site.url}}/images/matos_photo.jpg" alt="go pro">
 	<figcaption>Tout l'étendue du matériel numérique qui va me suivre pendant mon expédition</figcaption>
 </figure>
 
 ### Le détail
 
 <figure class="half">
-	<img src="/images/go_pro.jpg" alt="go pro">
-	<img src="/images/parakito.jpg" alt="parakito">
+	<img src="{{site.url}}/images/go_pro.jpg" alt="go pro">
+	<img src="{{site.url}}/images/parakito.jpg" alt="parakito">
 	<figcaption>Go Pro et parakito.</figcaption>
 </figure>
 
