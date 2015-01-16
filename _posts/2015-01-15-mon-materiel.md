@@ -13,7 +13,7 @@ J'ai enfin reçu tout mon matériel. Je vais vous détailler un peu ici mes choi
 ### Vue d'ensemble
 
 <figure>
-	<img src="{{site.url}}/images/matos_photo.jpg" alt="go pro">
+	<a href="{{site.url}}/images/matos_photo.jpg"><img src="{{site.url}}/images/matos_photo.jpg" alt="go pro"></a>
 	<figcaption>Tout l'étendue du matériel numérique qui va me suivre pendant mon expédition</figcaption>
 </figure>
 
@@ -22,8 +22,8 @@ Comme vous pouvez le constater, j'embarque avec moi 8 réacteurs nucléaires, de
 ### Le détail
 
 <figure class="half">
-	<img src="{{site.url}}/images/go_pro.jpg" alt="go pro">
-	<img src="{{site.url}}/images/parakito.jpg" alt="parakito">
+	<a href="{{site.url}}/images/go_pro.jpg"><img src="{{site.url}}/images/go_pro.jpg" alt="go pro"></a>
+	<a href="{{site.url}}/images/parakito.jpg"><img src="{{site.url}}/images/parakito.jpg" alt="parakito"></a>
 	<figcaption>Go Pro et parakito.</figcaption>
 </figure>
 
@@ -46,3 +46,7 @@ Comme vous pouvez le constater, il s'agit de la toute dernière Go Pro sortie, l
 
 #### Parakito
 Compagnons obligatoires, le bracelet et le roll-on anti-moustiques ! Je ne pourrais pas dire que je n'ai pas été prévenu, il y a de fortes épidémies de dengue et de Chikungunya en ce moment à Tahiti. J'arrive à la mousson ça promet d'être drôle.
+
+#### Guides de voyage
+Je n'ai trouvé que des Petits Futés, en vitesse juste avant de partir. Je n'ai même pas eu le temps de les feuilleter. Ils me serviront surtout d'appoint pour trouver une ou deux idées si à un moment donné je ne sais pas quoi faire de ma journée ou de ma soirée.
+Je risque fort de m'en servir pour m'orienter en ville aussi, les cartes c'est toujours utile. J'ai beau avoir téléchargé un gps hors ligne (merci OpenStreetMap) et les cartes de mes destinations, on n'est jamais trop prudent.
