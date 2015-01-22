@@ -53,7 +53,7 @@ Le petit crabe est un crabe de cocotiers. Ils montent aux arbres ceux la.
 	<a href="{{site.url}}/images/moana/ananas.jpg"><img src="{{site.url}}/images/moana/ananas.jpg" alt="ananas"></a>
 </figure>
 Pour info, la grappe de 8 ananas nous a coûté 600 francs pacifiques, soit environ 5 euros. Je pense qu'à ce prix là, on en trouve un beau en France, guère plus.
-Des vendeurs itinérants avec des fruits ou du poissons frais sont dispersés un peu partout.
+Des vendeurs itinérants avec des fruits ou des poissons frais sont dispersés un peu partout.
 
 ### Grottes de Maraa
 <figure class="half">
