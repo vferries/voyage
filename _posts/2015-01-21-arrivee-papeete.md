@@ -42,9 +42,9 @@ C'est juste fantastique. La verdure est omniprésente. On dirait que la ville a 
 	<a href="{{site.url}}/images/moana/poissons.jpg"><img src="{{site.url}}/images/moana/poissons.jpg" alt="poissons"></a>
 	<a href="{{site.url}}/images/moana/crabe.jpg"><img src="{{site.url}}/images/moana/crabe.jpg" alt="crabe"></a>
 </figure>
-- Poules partout
-- zolis poissons, go pro bientôt
-- crabe des cocotiers
+Dès l'arrivée à l'aéroport, j'ai été surpris de voir des poules se balader sur le parking. En fait, ce n'était pas que là-bas, il y en a littéralement partout sur l'île, du plein centre ville aux campagnes et points touristiques majeurs.
+J'ai aussi vu mes premiers petits poissons qui tournaient autour d'un petit bout de corail. J'aurais rapidement des images plus belles dès que je passerais sous l'eau, j'ai tout le matériel qui va bien pour cela, restez à l'écoute donc !
+Le petit crabe est un crabe de cocotiers. Ils montent aux arbres ceux la.
 
 ### Aperçu de la flore
 <figure class="third">
@@ -52,9 +52,16 @@ C'est juste fantastique. La verdure est omniprésente. On dirait que la ville a 
 	<a href="{{site.url}}/images/moana/lianes.jpg"><img src="{{site.url}}/images/moana/lianes.jpg" alt="lianes"></a>
 	<a href="{{site.url}}/images/moana/ananas.jpg"><img src="{{site.url}}/images/moana/ananas.jpg" alt="ananas"></a>
 </figure>
+Pour info, la grappe de 8 ananas nous a coûté 600 francs pacifiques, soit environ 5 euros. Je pense qu'à ce prix là, on en trouve un beau en France, guère plus.
+Des vendeurs itinérants avec des fruits ou du poissons frais sont dispersés un peu partout.
 
-### Grottes
+### Grottes de Maraa
 <figure class="half">
 	<a href="{{site.url}}/images/moana/totem.jpg"><img src="{{site.url}}/images/moana/totem.jpg" alt="totem"></a>
 	<a href="{{site.url}}/images/moana/grotte.jpg"><img src="{{site.url}}/images/moana/grotte.jpg" alt="grotte"></a>
 </figure>
+Première visite d'un site emblématique de l'île, des grottes en bord de mer. L'eau y est douce et limpide et des gouttes tombent des cavités qui surplombent ces trous.
+Celle que vous voyez ici en photo fait 80m de long et est arrosée par une pluie permanente.
+
+Finalement, pas ce cyclone pour ce côté de l'île, cela a visiblement pas mal soufflé de l'autre, mais rien de bien méchant.
+Il fait vraiment très chaud par contre, au moins 30 degrés et c'est très humide. Mon corps s'habitue doucement (je sue sang et eau quoi). J'ai déjà pris mes premiers petits coups de soleil, c'était traitre à travers les nuages hier, je ferai plus attention à l'avenir. Un bien magnifique séjour qui commence.
