@@ -63,5 +63,5 @@ Des vendeurs itinérants avec des fruits ou des poissons frais sont dispersés u
 Première visite d'un site emblématique de l'île, des grottes en bord de mer. L'eau y est douce et limpide et des gouttes tombent des cavités qui surplombent ces trous.
 Celle que vous voyez ici en photo fait 80m de long et est arrosée par une pluie permanente.
 
-Finalement, pas ce cyclone pour ce côté de l'île, cela a visiblement pas mal soufflé de l'autre, mais rien de bien méchant.
+Finalement, pas de cyclone pour ce côté de l'île, cela a visiblement pas mal soufflé de l'autre, mais rien de bien méchant.
 Il fait vraiment très chaud par contre, au moins 30 degrés et c'est très humide. Mon corps s'habitue doucement (je sue sang et eau quoi). J'ai déjà pris mes premiers petits coups de soleil, c'était traitre à travers les nuages hier, je ferai plus attention à l'avenir. Un bien magnifique séjour qui commence.
