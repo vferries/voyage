@@ -12,7 +12,7 @@ image:
 
 Maeva signifie bienvenue en Tahitien. Ce sont les premiers mots que j'ai pu entendre en descendant de l'avion en ce mercredi matin. Il est alors 6 heures du matin et il fait déjà plus de 25 degrés malgré le temps couvert et les quelques gouttes de pluie qui sont tombées il y a peu. Avec un taux d'humidité de plus de 80%, c'est littéralement suffoquant. En avançant un peu, des tahitiens en tenue nous interprêtaient une musique traditionnelle au Ukulélé.
 
-Une fois les checkpoints habituels passés, je franchis les portes et tombe directement sur Mathieu qui m'attendait et me passe un collier de fleurs de Tiaré autour du coup comme c'est de coutume ici.
+Une fois les checkpoints habituels passés, je franchis les portes et tombe directement sur Mathieu qui m'attendait et me passe un collier de Tiaré Tahiti autour du coup comme c'est de coutume ici.
 
 <figure>
 	<a href="{{site.url}}/images/moana/tiare.jpg"><img src="{{site.url}}/images/moana/tiare.jpg" alt="collier de tiaré"></a>
