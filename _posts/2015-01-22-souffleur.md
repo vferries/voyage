@@ -60,7 +60,7 @@ Ce soir c'est sortie en famille ! Les petits s'accrochent à "tonton Vincent" (l
 	<figcaption>Petit coucher de soleil sur la baie</figcaption>	
 </figure>
 
-Il y a des restaurants plein la place, on s'arête à un qui fait des sushis. J'aime bien me confronter de temps en temps à ce que je suis supposé ne pas trop aimer, en l'occurrence du poisson. Une énorme assiette arrive : tartare de poisson à la coco, salade de concombres, coco, citron, poisson cru et Mahi Mahi (daurade coryphène) sauce vanille et riz à l'ail. J'ai adoré mais l'assiette était gargantuesque, je suis reparti bien plein mais pas balloté du tout !
+Il y a des restaurants plein la place, on s'arête à un qui fait des sushis. J'aime bien me confronter de temps en temps à ce que je suis supposé ne pas trop aimer, en l'occurrence du poisson. Une énorme assiette arrive : tartare de poisson à la coco, salade de concombres, coco, citron, poisson cru et Mahi Mahi (daurade coryphène) sauce vanille et riz à l'ail. J'ai adoré mais l'assiette était gargantuesque, je suis reparti bien plein mais pas ballonné du tout !
 
 <figure>
 	<a href="{{site.url}}/images/souffleur/tartare.jpg"><img src="{{site.url}}/images/souffleur/tartare.jpg" alt="tartare de poisson"></a>
