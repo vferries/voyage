@@ -47,6 +47,7 @@ On progresse ensuite tranquillement jusqu'à l'entrée du troisième tube où on
 <figure class="half">
 	<a href="{{site.url}}/images/lavatubes/lavatube3.jpg"><img src="{{site.url}}/images/lavatubes/lavatube3.jpg" alt="lavatube 3"></a>
 	<a href="{{site.url}}/images/lavatubes/lavatube3back.jpg"><img src="{{site.url}}/images/lavatubes/lavatube3back.jpg" alt="lavatube 3 back"></a>
+	<figcaption>Notre coin pique-nique</figcaption>
 </figure>
 
 Nos frontales nous guident dans les boyaux sombres jusqu'à une intersection. On laisse ici nos sacs pour aller faire une boucle à l'intérieur du lavatube. Faits marquants : pas mal de passages avec des cordes, de corniches à monter, de chatières etc. Nos guides ont rajouté quelques petits jeux en passant, des passages improbables où il faut se faufiler tel les anguilles qu'on venait de voir, des passages avec pour consigne de ne pas mettre les pieds dans l'eau... Au milieu de ce périple, une salle un peu plus grande. Tout le monde s'installe sur des espèces de gradins naturels et notre guide nous montre les possibilités de saut : une à 5 mètres et une à 7. Je suis le seul à m'y être osé, et j'ai fait les deux hauteurs. Par contre, pas d'images de ce moment, c'était tout noir !
@@ -63,7 +64,7 @@ Les murs sont teintés de brillant jaune. Une des hypothèses serait que ce sera
 	<a href="{{site.url}}/images/lavatubes/boue.jpg"><img src="{{site.url}}/images/lavatubes/boue.jpg" alt="boue"></a>
 	<a href="{{site.url}}/images/lavatubes/caverne.jpg"><img src="{{site.url}}/images/lavatubes/caverne.jpg" alt="caverne"></a>
 	<a href="{{site.url}}/images/lavatubes/traverse.jpg"><img src="{{site.url}}/images/lavatubes/traverse.jpg" alt="traverse"></a>
-	<figcaption>Soirée traditionnelle</figcaption>
+	<figcaption>A l'intérieur du lavatube</figcaption>
 </figure>
 
 Une fois les sacs récupérés, en une dizaine de minutes on était dehors. Encore un petit quart d'heure de montée à travers un paysage magnifique et nous voila au pied d'un pylône électrique. Nous suivons la ligne en descendant, ancien chemin de 15 tonnes (la nature a bien vite repris ses droits) jusqu'au barrage d'où on était partis à 45 minutes de là.
