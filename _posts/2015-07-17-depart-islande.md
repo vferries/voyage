@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Oslo"
-excerpt: "Hébergement chez l'habitant et visite de la ville"
+title: "Départ pour l'Islande"
+excerpt: "Nos deux premiers jours sur place"
 categories: articles
-tags: [oslo]
+tags: [islande, cercle d'or]
 comments: true
 share: true
 image: 
-  feature: oslo/norway.jpg
+  feature: islande/bandeau.jpg
 ---
 
 Un petit préambule s'impose. Voila 6 mois que je suis revenu d'Islande, et je n'avais pas pris le temps de mettre à jour ces pages. Je me rattrape tant bien que mal à l'occasion de mon voyage en Norvège. On va dire que je suis excusé parce que les deux sont environ à la même lattitude. Je vais antidater les posts afin qu'ils apparaissent par ordre chronologique mais cela ne sera pas le cas, ils risquent fort de se retrouver entremêlés.
