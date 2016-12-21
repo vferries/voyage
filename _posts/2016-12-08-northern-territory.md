@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Départ pour l'Australie"
-excerpt: "Neuf jours intenses de road trip en Italie"
+excerpt: "Tout début de notre long périple en Australie"
 categories: articles
 tags: [Australie, Kakadu]
 comments: true
