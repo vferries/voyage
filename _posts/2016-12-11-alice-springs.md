@@ -82,3 +82,39 @@ Encore un petit arrêt en route afin de porter de nouveaux serpents, on va finir
 	<a href="{{site.url}}/images/desert/snake2.jpg"><img src="{{site.url}}/images/desert/snake2.jpg" alt=""></a>
 	<a href="{{site.url}}/images/desert/snake3.jpg"><img src="{{site.url}}/images/desert/snake3.jpg" alt=""></a>
 </figure>
+
+### Just a gentle remainder
+
+Oui oui, on est bien au beau milieu du désert. Il n'y a presque personne dans les environs, et on roule souvent sur de grandes lignes droites, sans rien à l'horizon. On peut reprendre une bonne blague d'un de nos guides : "Il y aura un truc incroyable dans 250km, on va tourner à droite".
+
+<figure>
+	<a href="{{site.url}}/images/desert/panneau.jpg"><img src="{{site.url}}/images/desert/panneau.jpg" alt=""></a>
+</figure>
+
+### Encore un camping curieux
+
+Le camping cette fois accueille des chameaux. On profite de la dune à l'arrière pour admirer un joli coucher de soleil. Au retour, les gens à table jouent avec un petit serpent sauvage trouvé dans le coin.
+
+<figure class="half">
+	<a href="{{site.url}}/images/desert/sunset.jpg"><img src="{{site.url}}/images/desert/sunset.jpg" alt=""></a>
+	<a href="{{site.url}}/images/desert/chameaux.jpg"><img src="{{site.url}}/images/desert/chameaux.jpg" alt=""></a>
+</figure>
+
+### Des cailloux, encore des cailloux
+
+Ensuite, direction le désert pour admirer des formations géologiques quelque peu curieuses : d'énormes rochers ronds, suspendus dans les airs. C'est l'occasion de s'essayer à quelques photos rigolotes.
+
+<figure class="half">
+	<a href="{{site.url}}/images/desert/boulder.jpg"><img src="{{site.url}}/images/desert/boulder.jpg" alt=""></a>
+	<a href="{{site.url}}/images/desert/boulder2.jpg"><img src="{{site.url}}/images/desert/boulder2.jpg" alt=""></a>
+	<a href="{{site.url}}/images/desert/fleur.jpg"><img src="{{site.url}}/images/desert/fleur.jpg" alt=""></a>
+	<a href="{{site.url}}/images/desert/boulder3.jpg"><img src="{{site.url}}/images/desert/boulder3.jpg" alt=""></a>
+</figure>
+
+Dernier arrêt dans un bar où le patron collectionne des objets de toutes sortes et de tous les pays. Il demande à chacun d'où il vient et lui ressort toute sa collection du pays en question. Quelle mémoire !
+
+<figure class="half">
+	<a href="{{site.url}}/images/desert/collection.jpg"><img src="{{site.url}}/images/desert/collection.jpg" alt=""></a>
+</figure>
+
+Et nous voilà arrivés à Alice Springs !
